@@ -16,7 +16,7 @@ https://www.autohotkey.com/
 
 
 
-![AutoHotKey1Image](https://user-images.githubusercontent.com/95067718/149842223-e9813c2d-634f-4cb4-b513-01b8f099c4f4.png)
+
 
 # Downloads
 First go to this link
@@ -29,6 +29,8 @@ And make sure not to download anything else or ads! They are trojans, viruses an
 
 Anyway then open the zip, with winrar (or whatever you use) extract to a folder. MAKE SURE TO INSTALL autohotkey then right click open with
 Then choose AutoHotKey!
+
+![AutoHotKey1Image](https://user-images.githubusercontent.com/95067718/149842223-e9813c2d-634f-4cb4-b513-01b8f099c4f4.png)
 
 # Testing
 Then hop into a game and start shooting and the script will find the pixels and aim directly at it! Sometimes these can be aimbot or just bodyshots doesn't matter alright

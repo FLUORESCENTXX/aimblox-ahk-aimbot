@@ -34,4 +34,7 @@ Then choose AutoHotKey!
 
 # Testing
 Then hop into a game and start shooting and the script will find the pixels and aim directly at it! Sometimes these can be aimbot or just bodyshots doesn't matter alright
+DON"T COMPLAIN THAT ITS NOT LIKE SOME F&&&&CKING GUI. It's a script not a gui.
 
+# Errors/Issues
+Have an issue? I can resolve it, just make a new issue in this respiratory in issues!

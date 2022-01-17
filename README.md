@@ -38,3 +38,4 @@ DON"T COMPLAIN THAT ITS NOT LIKE SOME F&&&&CKING GUI. It's a script not a gui.
 
 # Errors/Issues
 Have an issue? I can resolve it, just make a new issue in this respiratory in issues!
+![Issues](https://user-images.githubusercontent.com/95067718/149842949-28ee55c1-6209-4e24-a24c-eb68aa7d7315.png)

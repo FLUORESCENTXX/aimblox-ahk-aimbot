@@ -9,6 +9,13 @@ A ahk script that is purely aimbot to anyone specifically!
 This is a ahk script that tracks the pixels of a specific color hex, I've neatly done the hexs for you so don't worry about it. Also make sure instal AutoHotKey from their website
 in order for this work and make sure to open with or run it with autohotkey otherwise it won't even run!
 
+# Installations
+Install autohotkey from their website!
+https://www.autohotkey.com/
+![AutoHotKeyImage](https://user-images.githubusercontent.com/95067718/149842777-0c76dde3-74ca-4fb2-ae67-f2378d340a50.png)
+
+
+
 ![AutoHotKey1Image](https://user-images.githubusercontent.com/95067718/149842223-e9813c2d-634f-4cb4-b513-01b8f099c4f4.png)
 
 # Downloads
